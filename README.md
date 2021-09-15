@@ -25,7 +25,7 @@
 
 ## 🤵🏻‍ Connect - 
 
-[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://img-premium.flaticon.com/png/512/1927/premium/1927746.png?token=exp=1626635887~hmac=d29a72f10a3a6cfbc8cd7de8022b4091" />](https://vaibhavvemula.netlify.app)
+[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png" />](https://vaibhavvemula.netlify.app)
 [<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/vaibhavvemula/)
 [<img align="left" alt="Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/vaibhaaaavvv)
 [<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />](https://www.instagram.com/vaibhaaaavvv/)
