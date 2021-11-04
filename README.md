@@ -39,4 +39,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-vemula&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="vaibhav-vemula" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-vemula&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&cache_seconds=1800&include_all_commits=true&locale=en" alt="vaibhav-vemula" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-vemula&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&cache_seconds=1800&include_all_commits=true&locale=en" alt="vaibhav-vemula" /></p>
+ -->
