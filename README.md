@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning ***Data Science, Deep Learning***
 
-- 👨‍💻 All of my projects are available at [https://vaibhavvemula.netlify.app](https://vaibhavvemula.netlify.app)
+- 👨‍💻 Portfolio - [https://vaibhavvemula.netlify.app](https://vaibhavvemula.netlify.app)
 
 - 📝 I write blogs on [https://vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
 
