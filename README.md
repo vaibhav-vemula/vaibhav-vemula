@@ -11,7 +11,14 @@
 
 - 📝 I write blogs on [https://vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
 
-- 💬 Ask me about  ***Full Stack Web Development, Machine Learning, Data Science, Deep Learning, Computer Vision, App Development***
+- 💬 Ask me about  <br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Full Stack Web Development<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine Learning<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Deep Learning<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Geographic Information System(GIS)<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Remote Sensing<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Computer Vision<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - App Development
 
 - 📫 How to reach me **vaibhav25vemula23@gmail.com**
 <br>
