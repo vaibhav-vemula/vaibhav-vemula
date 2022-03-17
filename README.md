@@ -5,15 +5,13 @@
 <h3 align='center'><i>I am an energetic and ambitious person who has developed a mature and responsible approach to any task that i undertake. I am a hardcore programming and technology enthusiast</i>.</h3>
 <br>
 
-- 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering 
-
-- 🌱 I’m currently learning ***Data Science, Deep Learning***
+- 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering at PES University, Bangalore
 
 - 👨‍💻 Portfolio - [https://vaibhavvemula.netlify.app](https://vaibhavvemula.netlify.app)
 
 - 📝 I write blogs on [https://vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
 
-- 💬 Ask me about  ***Full Stack Web Development, Machine Learning, Data Science***
+- 💬 Ask me about  ***Full Stack Web Development, Machine Learning, Data Science, Deep Learning, Computer Vision, App Development***
 
 - 📫 How to reach me **vaibhav25vemula23@gmail.com**
 <br>
