@@ -7,7 +7,7 @@
 
 - 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering at PES University, Bangalore
 
-- 👨‍💻 Portfolio - [https://vaibhavvemula.netlify.app](https://vaibhavvemula.netlify.app)
+- 👨‍💻 Portfolio - [vaibhavvemula.me](https://vaibhavvemula.me)
 
 - 📝 I write blogs on [https://vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
 
@@ -30,7 +30,7 @@
 
 ## 🤵🏻‍ Connect - 
 
-[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png" />](https://vaibhavvemula.netlify.app)
+[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png" />](https://vaibhavvemula.me)
 [<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/vaibhavvemula/)
 [<img align="left" alt="Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/vaibhaaaavvv)
 [<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />](https://www.instagram.com/vaibhaaaavvv/)
