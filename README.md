@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio - [vaibhavvemula.me](https://vaibhavvemula.me)
 
-- 📝 I write blogs on [https://vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
+- 📝 I write blogs on [vaibhaaaavvv.blogspot.com](https://vaibhaaaavvv.blogspot.com)
 
 - 💬 Ask me about  <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Full Stack Web Development<br/> 
