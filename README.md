@@ -31,11 +31,7 @@
 ## 🤵🏻‍ Connect - 
 
 [<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png" />](https://vaibhavvemula.me)
-[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/vaibhavvemula/)
-[<img align="left" alt="Twitter" width="35px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />](https://twitter.com/vaibhaaaavvv)
-[<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/512/733/733558.png" />](https://www.instagram.com/vaibhaaaavvv/)
-
-
+<p align="left"><a href="http://www.instagram.com/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhavvemula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dev.to/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
 
 <br>
 <br>
