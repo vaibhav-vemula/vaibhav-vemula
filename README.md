@@ -4,7 +4,7 @@
 
 <h3 align='center'><i>I am an energetic and ambitious person who has developed a mature and responsible approach to any task that i undertake. I am a hardcore programming and technology enthusiast</i>.</h3>
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-vemula&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-vemula" /> </p>
 - 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering at PES University, Bangalore
 
 - 👨‍💻 Portfolio - [vaibhavvemula.me](https://vaibhavvemula.me)
@@ -47,5 +47,5 @@
 
  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-vemula&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-vemula" /> </p>
+
 
