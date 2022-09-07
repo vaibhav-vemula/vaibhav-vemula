@@ -39,7 +39,7 @@
 
 ## 🤵🏻‍ Connect - 
 
-[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png" />](https://vaibhavvemula.me)
+[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png"  />](https://vaibhavvemula.me)
 <p align="left"><a href="http://www.instagram.com/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhavvemula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dev.to/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
 
 <br>
