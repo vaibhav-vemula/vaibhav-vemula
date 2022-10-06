@@ -34,12 +34,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-vemula&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="vaibhav-vemula" />
 </p>
 
- <br> <br> <br> <br> <br> <br> <br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav-vemula&count_private=true&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&include_all_commits=true)
+
  
 
 ## 🤵🏻‍ Connect - 
 
-[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/master/public/vv.png"  />](https://vaibhavvemula.me)
+[<img align="left" alt="Vaibhav Vemula" width="35px" src="https://github.com/vaibhav-vemula/PortfolioWebsite/blob/main/public/vv.png"  />](https://vaibhavvemula.me)
 <p align="left"><a href="http://www.instagram.com/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/vaibhavvemula" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.dev.to/vaibhaaaavvv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a></p>
 
 <br>
