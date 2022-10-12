@@ -32,7 +32,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-vemula&theme=algolia&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-vemula&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="vaibhav-vemula" />
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-vemula&count_private=true&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&include_all_commits=true" alt="vaibhav-vemula" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-vemula&count_private=true&show_icons=true&theme=highcontrast&title_color=3a88fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&include_all_commits=true" alt="vaibhav-vemula" /> -->
 </div>
 
  <br>
