@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-vemula&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-vemula" /> </p>
 - 🏫 I'm currently pursuing B.Tech in Computer Science and Engineering at PES University, Bangalore
 
-- 👨‍💻 Portfolio - [vaibhavvemula.me](https://vaibhavvemula.me)
+- 👨‍💻 Portfolio - [vaibhavvemula.com](https://vaibhavvemula.com)
 
 - 💬 Ask me about  <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Full Stack Web Development<br/> 
