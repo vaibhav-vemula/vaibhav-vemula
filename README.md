@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" alt="Banner" height="400px"/>
+<img src="profileBanner.png" alt="Banner" height="400px"/>
 </p>
 
 <h3 align='center'><i>I am an energetic and ambitious person who has developed a mature and responsible approach to any task that i undertake. I am a hardcore programming and technology aficionado</i>.</h3>
